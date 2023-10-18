@@ -1,0 +1,28 @@
+{
+    "AllData": [
+        {
+            "name": "Faaiz Ali",
+            "fname": "Muhammad Tariq",
+            "age": "19",
+            "id": 1000,
+            "pwd": "1400",
+            "cash": 2000
+        },
+        {
+            "name": "Abdullah",
+            "fname": "Younas",
+            "age": "19",
+            "id": 1001,
+            "pwd": "pak",
+            "cash": 1600
+        },
+        {
+            "name": "Zohaib",
+            "fname": "Tariq",
+            "age": "13",
+            "id": 6452,
+            "pwd": "zoo",
+            "cash": 500
+        }
+    ]
+}
